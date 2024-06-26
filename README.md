@@ -4,6 +4,9 @@
 # What Is It For?
 Crack massal from PPDB users, there's much more tools in this script, such a find name, crack, and locating PPDB user house, and find user information.
 
+# SOURCE CODE
+The source now is open, you can see on ```login.py``` file
+
 # How To Use
 Make sure to install python software
 ```
